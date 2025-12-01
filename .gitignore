@@ -1,2 +1,6 @@
 *
 !.gitignore
+!bindings.4coder
+!config.4coder
+!build.bat
+!custom_layer.cpp
